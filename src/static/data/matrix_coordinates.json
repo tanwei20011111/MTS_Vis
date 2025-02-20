@@ -1,0 +1,1 @@
+{"mtx0": {"type": "state", "pos": [0, 0]}, "mtx1": {"type": "trans", "pos": [0, 1]}, "mtx2": {"type": "state", "pos": [1, 1]}, "mtx3": {"type": "trans", "pos": [1, 2]}, "mtx4": {"type": "state", "pos": [0, 2]}, "mtx5": {"type": "trans", "pos": [0, 3]}, "mtx6": {"type": "state", "pos": [2, 3]}}
